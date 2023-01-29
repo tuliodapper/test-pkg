@@ -12,7 +12,7 @@ If you want to replace this with a Flask application run:
 
 and then choose `flask` as template.
 """
-import tkinter as tk
+import tk
 
 class App(tk.Tk):
 
